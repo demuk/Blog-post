@@ -1,4 +1,15 @@
 h1 {
     text-align: center;
-    background-color: chocolate;
+    color: #8b5824;
+}
+
+
+#paragraph-text{
+    color: #c79e42;
+    text-align: center;
+}
+
+#footer {
+    color: #8b5824;
+    text-align: center;
 }
